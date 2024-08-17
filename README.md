@@ -12,13 +12,13 @@ Bienvenido a mi nuevo perfil de GitHub. Soy un apasionado de la ciberseguridad a
 
 ## Habilidades y Tecnologías
 - **Lenguajes de Programación:** [Lista de lenguajes,JavaScript, Python, Java,
-- - **Frameworks y Librerías:** [Lista de frameworks y librerías,React, Django, Node.js, etc.]
+- **Frameworks y Librerías:** [Lista de frameworks y librerías,React, Django, Node.js,
 - **Herramientas y Tecnologías:** [metasploit,Docker, Kubernetes, Git, etc.]
 - **Bases de Datos:** [Lista de bases de datos, por MySQL, MongoDB, PostgreSQL, etc.]
 
 ## Proyectos Destacados
 
-Pendiente....
+Pendiente...
 
 ## Cómo Trabajar Juntos
 
