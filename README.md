@@ -1,6 +1,6 @@
 # ¡Hola! Soy [robinhook69]
 
-Bienvenido a mi nuevo perfil de GitHub. Soy un apasionado de la ciberseguridad apasionado por la tecnología y la innovación. Aquí encontrarás una colección de mis proyectos, contribuciones y experimentos en diversas áreas de la programación y el desarrollo, que iré publicando a medida que vaya aprendiendo, me encantaría conocer a gente con la que aprender nuevas cosas, enseñar y compartir proyectos.
+Bienvenido a mi perfil de GitHub. Soy un apasionado de la ciberseguridad y apasionado por la tecnología y la innovación, aquí encontrarás una colección de mis proyectos, contribuciones y experimentos en diversas áreas de la programación y el desarrollo, que iré publicando a medida que vaya avanzando en mis progresos, me encantaría conocer a gente con la que aprender nuevas cosas, enseñar y compartir proyectos.
 
 ## Sobre Mí
 
