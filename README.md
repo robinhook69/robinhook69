@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I am passionate about cybersecurity and passionate
 ## Sobre Mí
 
 - **Nombre:** [robin]
-- **Ubicación:** [Morocco]
+- **Ubicación:** [Spain]
 - **Correo Electrónico:** [tu-email@example.com]
 - **LinkedIn:** [tu perfil de LinkedIn]
 - **Website/Portfolio:** [tu sitio web o portfolio]
